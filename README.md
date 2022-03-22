@@ -1,2 +1,2 @@
 # Java-DSA
-Here I will pe uploading solutions for DSA in java.
+Here I will be uploading solutions for DSA in java.
